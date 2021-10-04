@@ -1,0 +1,720 @@
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x80940 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 00 00 00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x80ed0 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 00 00 00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x130b0 
+original("7F 45 4C 46 01 01 01 00")
+replaced("A8 00 00 00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x130b4 
+original("7F 45 4C 46 01 01 01 00")
+replaced("A8 00 00 00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x130bc 
+original("7F 45 4C 46 01 01 01 00")
+replaced("A8 00 00 00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x1304c 
+original("7F 45 4C 46 01 01 01 00")
+replaced("A8 00 00 00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x1427e 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 00 00 00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x14288 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 00 00 00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15ef2 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 00 00 00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15fb0 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 00 00 00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x1697e 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 00 00 00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x34598 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 00 00 00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x345fa 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 00 00 00 00 00 00 00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x5b090 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 00 00 00 00 00 00 00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x66044 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 BF 00 BF")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x6606a 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 BF")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x66076 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 BF 00 BF")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x662b2 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 BF")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x662c6 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 BF")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0xe000 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 00 A0 E3 1E FF 2F E1")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15f34 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 BF 00 BF")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15f8c 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 BF 00 BF")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x166e4 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 BF 00 BF")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x2fb42 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 BF 00 BF")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x32e44 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 20 70 47")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x32e6e 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 20 70 47")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x9c0 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 20 70 47")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x5580a 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 BF 00 BF")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x5582c 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00 BF")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15084 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x150a8 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x150d0 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x150f4 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x152e8 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x1530c 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15334 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15432 
+original("7F 45 4C 46 01 01 01 00")
+replaced("72")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15436 
+original("7F 45 4C 46 01 01 01 00")
+replaced("30")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x1544c 
+original("7F 45 4C 46 01 01 01 00")
+replaced("16")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x1544e 
+original("7F 45 4C 46 01 01 01 00")
+replaced("57")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15382 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x153a6 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x153d2 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15414 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x1543c 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x1545c 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15492 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x154dc 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15560 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15622 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x1565e 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15682 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x156aa 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x156ce 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x159dc 
+original("7F 45 4C 46 01 01 01 00")
+replaced("31")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x1576e 
+original("7F 45 4C 46 01 01 01 00")
+replaced("6A")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x1577a 
+original("7F 45 4C 46 01 01 01 00")
+replaced("30")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x324e0 
+original("7F 45 4C 46 01 01 01 00")
+replaced("7E")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0xf2bc 
+original("7F 45 4C 46 01 01 01 00")
+replaced("12")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0xf2e2 
+original("7F 45 4C 46 01 01 01 00")
+replaced("02")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x13c8e 
+original("7F 45 4C 46 01 01 01 00")
+replaced("19")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15c20 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15c3c 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15c58 
+original("7F 45 4C 46 01 01 01 00")
+replaced("00")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x14e8e 
+original("7F 45 4C 46 01 01 01 00")
+replaced("1E")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x63112 
+original("7F 45 4C 46 01 01 01 00")
+replaced("BE")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x63134 
+original("7F 45 4C 46 01 01 01 00")
+replaced("86")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x63166 
+original("7F 45 4C 46 01 01 01 00")
+replaced("BE")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x63174 
+original("7F 45 4C 46 01 01 01 00")
+replaced("47")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x631ca 
+original("7F 45 4C 46 01 01 01 00")
+replaced("02")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x15c04 
+original("7F 45 4C 46 01 01 01 00")
+replaced("40")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x64ff0 
+original("7F 45 4C 46 01 01 01 00")
+replaced("02")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x13eb8 
+original("7F 45 4C 46 01 01 01 00")
+replaced("02")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x63846 
+original("7F 45 4C 46 01 01 01 00")
+replaced("02")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x2643a 
+original("7F 45 4C 46 01 01 01 00")
+replaced("7E")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0xa2b58 
+original("7F 45 4C 46 01 01 01 00")
+replaced("1E")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x8df5a 
+original("7F 45 4C 46 01 01 01 00")
+replaced("02")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x8df8e 
+original("7F 45 4C 46 01 01 01 00")
+replaced("41")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x8dfba 
+original("7F 45 4C 46 01 01 01 00")
+replaced("9B")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x8dfe6 
+original("7F 45 4C 46 01 01 01 00")
+replaced("10")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x8dff2 
+original("7F 45 4C 46 01 01 01 00")
+replaced("58")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x8e048 
+original("7F 45 4C 46 01 01 01 00")
+replaced("30")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x8e054 
+original("7F 45 4C 46 01 01 01 00")
+replaced("43")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x8e086 
+original("7F 45 4C 46 01 01 01 00")
+replaced("91")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x8e0b6 
+original("7F 45 4C 46 01 01 01 00")
+replaced("3E")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x8e0ce 
+original("7F 45 4C 46 01 01 01 00")
+replaced("F4")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x8e0da 
+original("7F 45 4C 46 01 01 01 00")
+replaced("34")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x8e110 
+original("7F 45 4C 46 01 01 01 00")
+replaced("3E")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x26608 
+original("7F 45 4C 46 01 01 01 00")
+replaced("02")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x26870 
+original("7F 45 4C 46 01 01 01 00")
+replaced("19")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x3052 
+original("7F 45 4C 46 01 01 01 00")
+replaced("BF")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x2d9f8 
+original("7F 45 4C 46 01 01 01 00")
+replaced("42")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x5ca84 
+original("7F 45 4C 46 01 01 01 00")
+replaced("23")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x5cb82 
+original("7F 45 4C 46 01 01 01 00")
+replaced("B3")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x9ff60 
+original("7F 45 4C 46 01 01 01 00")
+replaced("B0")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x33826 
+original("7F 45 4C 46 01 01 01 00")
+replaced("83")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x33886 
+original("7F 45 4C 46 01 01 01 00")
+replaced("83")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x9ee26 
+original("7F 45 4C 46 01 01 01 00")
+replaced("E4")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x33be4 
+original("7F 45 4C 46 01 01 01 00")
+replaced("88")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0xf3be 
+original("7F 45 4C 46 01 01 01 00")
+replaced("32")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x23a2 
+original("7F 45 4C 46 01 01 01 00")
+replaced("BF")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x6496e 
+original("7F 45 4C 46 01 01 01 00")
+replaced("23")
+gg.clearResults()
+
+gg.setRanges(gg.REGION_CODE_APP)
+name("libtersafe.so")
+offset = 0x8e69e 
+original("7F 45 4C 46 01 01 01 00")
+replaced("2E")
+gg.clearResults()

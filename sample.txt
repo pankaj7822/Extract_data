@@ -1,0 +1,6047 @@
+gg.processPause()
+io.open("/sdcard/vikarikey", "r")
+io.open("/sdcard/vikarikey", "r")
+gg.prompt({ -- table(c750728)
+	[1] = 'input',
+}, { -- table(6f26c41)
+	[1] = 'ghost',
+}, { -- table(d7a15e6)
+	[1] = 'text',
+})
+--[[ return: { -- table(1d1bc45)
+	[1] = 'ghost',
+} ]]
+gg.makeRequest("https://luagameguardian.com/apkmanager59/Vikari.php", nil, "{\"text\":\"ghost\"}")
+gg.toast("Darklord ....")
+gg.setVisible(false)
+gg.setRanges(gg.REGION_CODE_APP)
+gg.getRangesList("libtersafe.so")
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(45e8a4d)
+	[1] = { -- table(ef28902)
+		['address'] = 0x4080940,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(c8f2213)
+		['address'] = 0x4080941,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(3057c50)
+		['address'] = 0x4080942,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(b167e49)
+		['address'] = 0x4080943,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(884334e)
+		['address'] = 0x4080944,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(43fcc6f)
+		['address'] = 0x4080945,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(c4e0d7c)
+		['address'] = 0x4080946,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(f3fb605)
+		['address'] = 0x4080947,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(474365a)
+	[1] = { -- table(1a6c08b)
+		['address'] = 0x4080940,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(92c8568)
+		['address'] = 0x4080941,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[3] = { -- table(f0aad81)
+		['address'] = 0x4080942,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(b2f5e26)
+		['address'] = 0x4080943,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(93eda67)
+	[1] = { -- table(8f89014)
+		['address'] = 0x4080ed0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(133a0bd)
+		['address'] = 0x4080ed1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(d2336b2)
+		['address'] = 0x4080ed2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(254b603)
+		['address'] = 0x4080ed3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(6d89980)
+		['address'] = 0x4080ed4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(1fe8bb9)
+		['address'] = 0x4080ed5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(20a0bfe)
+		['address'] = 0x4080ed6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(262af5f)
+		['address'] = 0x4080ed7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(7edcdac)
+	[1] = { -- table(3f32a75)
+		['address'] = 0x4080ed0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(f6ea0a)
+		['address'] = 0x4080ed1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[3] = { -- table(22ce27b)
+		['address'] = 0x4080ed2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(401898)
+		['address'] = 0x4080ed3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.processPause()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(d219cd6)
+	[1] = { -- table(89d2b57)
+		['address'] = 0x40130b0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(a6a2644)
+		['address'] = 0x40130b1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(373332d)
+		['address'] = 0x40130b2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(372b062)
+		['address'] = 0x40130b3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(75f25f3)
+		['address'] = 0x40130b4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(e0562b0)
+		['address'] = 0x40130b5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(7cd529)
+		['address'] = 0x40130b6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(4cf70ae)
+		['address'] = 0x40130b7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(53c2e4f)
+	[1] = { -- table(d5f9dc)
+		['address'] = 0x40130b0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'A8r',
+	},
+	[2] = { -- table(9649ae5)
+		['address'] = 0x40130b1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[3] = { -- table(925e9ba)
+		['address'] = 0x40130b2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(237606b)
+		['address'] = 0x40130b3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(eb6d7c8)
+	[1] = { -- table(6490061)
+		['address'] = 0x40130b4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(738e786)
+		['address'] = 0x40130b5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(1699847)
+		['address'] = 0x40130b6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(445a874)
+		['address'] = 0x40130b7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(8b4419d)
+		['address'] = 0x40130b8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(d2bf612)
+		['address'] = 0x40130b9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(49d71e3)
+		['address'] = 0x40130ba,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(84ed7e0)
+		['address'] = 0x40130bb,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(6985a99)
+	[1] = { -- table(5cf615e)
+		['address'] = 0x40130b4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'A8r',
+	},
+	[2] = { -- table(5ab493f)
+		['address'] = 0x40130b5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[3] = { -- table(ff9920c)
+		['address'] = 0x40130b6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(90b0755)
+		['address'] = 0x40130b7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(9953a5b)
+	[1] = { -- table(9b3c2f8)
+		['address'] = 0x40130bc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(ac1c3d1)
+		['address'] = 0x40130bd,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(2d03e36)
+		['address'] = 0x40130be,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(9632137)
+		['address'] = 0x40130bf,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(ade16a4)
+		['address'] = 0x40130c0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(24dcc0d)
+		['address'] = 0x40130c1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(e5a07c2)
+		['address'] = 0x40130c2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(cbe99d3)
+		['address'] = 0x40130c3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(c37f910)
+	[1] = { -- table(4181c09)
+		['address'] = 0x40130bc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'A8r',
+	},
+	[2] = { -- table(ec4de0e)
+		['address'] = 0x40130bd,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[3] = { -- table(24f002f)
+		['address'] = 0x40130be,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(10b963c)
+		['address'] = 0x40130bf,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(81d6fc5)
+	[1] = { -- table(3f4cd1a)
+		['address'] = 0x401304c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(1d5704b)
+		['address'] = 0x401304d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(519da28)
+		['address'] = 0x401304e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(f6a4341)
+		['address'] = 0x401304f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(602a0e6)
+		['address'] = 0x4013050,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(408c627)
+		['address'] = 0x4013051,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(d4670d4)
+		['address'] = 0x4013052,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(556d27d)
+		['address'] = 0x4013053,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(3c7e572)
+	[1] = { -- table(c319dc3)
+		['address'] = 0x401304c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'A8r',
+	},
+	[2] = { -- table(703c640)
+		['address'] = 0x401304d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[3] = { -- table(8831979)
+		['address'] = 0x401304e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(e2ae6be)
+		['address'] = 0x401304f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(f86531f)
+	[1] = { -- table(27f066c)
+		['address'] = 0x401427e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(792d435)
+		['address'] = 0x401427f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(c2ab0ca)
+		['address'] = 0x4014280,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(647023b)
+		['address'] = 0x4014281,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(38c1d58)
+		['address'] = 0x4014282,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(da97eb1)
+		['address'] = 0x4014283,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(3ab0f96)
+		['address'] = 0x4014284,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(2998717)
+		['address'] = 0x4014285,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(551b704)
+	[1] = { -- table(aa654ed)
+		['address'] = 0x401427e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(3008f22)
+		['address'] = 0x401427f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[3] = { -- table(9257db3)
+		['address'] = 0x4014280,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(cb53f70)
+		['address'] = 0x4014281,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(32052e9)
+	[1] = { -- table(73c7b6e)
+		['address'] = 0x4014288,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(770420f)
+		['address'] = 0x4014289,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(586e29c)
+		['address'] = 0x401428a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(42234a5)
+		['address'] = 0x401428b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(b38e07a)
+		['address'] = 0x401428c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(3f8f02b)
+		['address'] = 0x401428d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(66d8c88)
+		['address'] = 0x401428e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(6a67621)
+		['address'] = 0x401428f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(b648a46)
+	[1] = { -- table(4146407)
+		['address'] = 0x4014288,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(792e934)
+		['address'] = 0x4014289,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[3] = { -- table(ed3535d)
+		['address'] = 0x401428a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(a4f04d2)
+		['address'] = 0x401428b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(38939a3)
+	[1] = { -- table(80f64a0)
+		['address'] = 0x4015ef2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(2f6c859)
+		['address'] = 0x4015ef3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(1f49c1e)
+		['address'] = 0x4015ef4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(9ebccff)
+		['address'] = 0x4015ef5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(e162acc)
+		['address'] = 0x4015ef6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(6429115)
+		['address'] = 0x4015ef7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(dca5c2a)
+		['address'] = 0x4015ef8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(9ba3a1b)
+		['address'] = 0x4015ef9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(de127b8)
+	[1] = { -- table(3482991)
+		['address'] = 0x4015ef2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(98a10f6)
+		['address'] = 0x4015ef3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[3] = { -- table(5385cf7)
+		['address'] = 0x4015ef4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(35d0764)
+		['address'] = 0x4015ef5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(234cdcd)
+	[1] = { -- table(be4682)
+		['address'] = 0x4015fb0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(50bd193)
+		['address'] = 0x4015fb1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(a9535d0)
+		['address'] = 0x4015fb2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(6cd79c9)
+		['address'] = 0x4015fb3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(b0e48ce)
+		['address'] = 0x4015fb4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(c97f3ef)
+		['address'] = 0x4015fb5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(2dfdefc)
+		['address'] = 0x4015fb6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(22ae985)
+		['address'] = 0x4015fb7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(14a23da)
+	[1] = { -- table(819e00b)
+		['address'] = 0x4015fb0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(8c9eee8)
+		['address'] = 0x4015fb1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[3] = { -- table(4359901)
+		['address'] = 0x4015fb2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(736a3a6)
+		['address'] = 0x4015fb3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(8471e7)
+	[1] = { -- table(2c31194)
+		['address'] = 0x401697e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(8e1c43d)
+		['address'] = 0x401697f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(6195432)
+		['address'] = 0x4016980,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(11c4583)
+		['address'] = 0x4016981,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(c89b300)
+		['address'] = 0x4016982,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(d2b6739)
+		['address'] = 0x4016983,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(404817e)
+		['address'] = 0x4016984,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(ad3b6df)
+		['address'] = 0x4016985,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(d56ff2c)
+	[1] = { -- table(7d23df5)
+		['address'] = 0x401697e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(3e3378a)
+		['address'] = 0x401697f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[3] = { -- table(166e1fb)
+		['address'] = 0x4016980,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(4cae218)
+		['address'] = 0x4016981,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(1d5c471)
+	[1] = { -- table(a454256)
+		['address'] = 0x4034598,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(e37a2d7)
+		['address'] = 0x4034599,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(a9807c4)
+		['address'] = 0x403459a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(ab136ad)
+		['address'] = 0x403459b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(2eb2de2)
+		['address'] = 0x403459c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(4e99573)
+		['address'] = 0x403459d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(cefdc30)
+		['address'] = 0x403459e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(45790a9)
+		['address'] = 0x403459f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(312462e)
+	[1] = { -- table(5be15cf)
+		['address'] = 0x4034598,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(9ae8b5c)
+		['address'] = 0x4034599,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[3] = { -- table(2ef8e65)
+		['address'] = 0x403459a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(480973a)
+		['address'] = 0x403459b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(9b03feb)
+	[1] = { -- table(e470148)
+		['address'] = 0x40345fa,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(c4fabe1)
+		['address'] = 0x40345fb,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(550ed06)
+		['address'] = 0x40345fc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(450efc7)
+		['address'] = 0x40345fd,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(a6ee9f4)
+		['address'] = 0x40345fe,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(33a251d)
+		['address'] = 0x40345ff,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(87ed392)
+		['address'] = 0x4034600,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(762c163)
+		['address'] = 0x4034601,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(18ab160)
+	[1] = { -- table(a58f619)
+		['address'] = 0x40345fa,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(33296de)
+		['address'] = 0x40345fb,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[3] = { -- table(43610bf)
+		['address'] = 0x40345fc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(6d9838c)
+		['address'] = 0x40345fd,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[5] = { -- table(af9dad5)
+		['address'] = 0x40345fe,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[6] = { -- table(2cd42ea)
+		['address'] = 0x40345ff,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[7] = { -- table(6c4f9db)
+		['address'] = 0x4034600,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[8] = { -- table(614c78)
+		['address'] = 0x4034601,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(b8a4f51)
+	[1] = { -- table(7b4a3b6)
+		['address'] = 0x405b090,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(68f58b7)
+		['address'] = 0x405b091,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(c9ab824)
+		['address'] = 0x405b092,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(1d38f8d)
+		['address'] = 0x405b093,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(df4542)
+		['address'] = 0x405b094,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(936c953)
+		['address'] = 0x405b095,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(6dd3290)
+		['address'] = 0x405b096,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(cf69789)
+		['address'] = 0x405b097,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(420738e)
+	[1] = { -- table(2daa7af)
+		['address'] = 0x405b090,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(68ae7bc)
+		['address'] = 0x405b091,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[3] = { -- table(3282345)
+		['address'] = 0x405b092,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(f343a9a)
+		['address'] = 0x405b093,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[5] = { -- table(340fcb)
+		['address'] = 0x405b094,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[6] = { -- table(4fcc3a8)
+		['address'] = 0x405b095,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[7] = { -- table(f2caec1)
+		['address'] = 0x405b096,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[8] = { -- table(d8b6666)
+		['address'] = 0x405b097,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(671dda7)
+	[1] = { -- table(62e7254)
+		['address'] = 0x4066044,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(99475fd)
+		['address'] = 0x4066045,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(ed782f2)
+		['address'] = 0x4066046,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(4d4ad43)
+		['address'] = 0x4066047,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(2a5fc0)
+		['address'] = 0x4066048,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(9b774f9)
+		['address'] = 0x4066049,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(a56dc3e)
+		['address'] = 0x406604a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(40ada9f)
+		['address'] = 0x406604b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(d35b7ec)
+	[1] = { -- table(a7167b5)
+		['address'] = 0x4066044,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(ae07e4a)
+		['address'] = 0x4066045,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+	[3] = { -- table(f4c81bb)
+		['address'] = 0x4066046,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(4bc66d8)
+		['address'] = 0x4066047,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(e9dca31)
+	[1] = { -- table(fb03516)
+		['address'] = 0x406606a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(3377e97)
+		['address'] = 0x406606b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(6fd1884)
+		['address'] = 0x406606c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(153d86d)
+		['address'] = 0x406606d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(df28ca2)
+		['address'] = 0x406606e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(e6b6d33)
+		['address'] = 0x406606f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(77538f0)
+		['address'] = 0x4066070,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(de28e69)
+		['address'] = 0x4066071,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(f10d0ee)
+	[1] = { -- table(fe5a98f)
+		['address'] = 0x406606a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(20cf41c)
+		['address'] = 0x406606b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(b8ca825)
+	[1] = { -- table(7bd0dfa)
+		['address'] = 0x4066076,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(f1d4fab)
+		['address'] = 0x4066077,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(7033608)
+		['address'] = 0x4066078,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(904a1a1)
+		['address'] = 0x4066079,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(3be0fc6)
+		['address'] = 0x406607a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(9df3b87)
+		['address'] = 0x406607b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(999aab4)
+		['address'] = 0x406607c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(3a8b6dd)
+		['address'] = 0x406607d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(27b6252)
+	[1] = { -- table(3ea0923)
+		['address'] = 0x4066076,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(d80be20)
+		['address'] = 0x4066077,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+	[3] = { -- table(67ee3d9)
+		['address'] = 0x4066078,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(49519e)
+		['address'] = 0x4066079,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(44a147f)
+	[1] = { -- table(f039c4c)
+		['address'] = 0x40662b2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(cf0e495)
+		['address'] = 0x40662b3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(874e9aa)
+		['address'] = 0x40662b4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(c75799b)
+		['address'] = 0x40662b5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(1f43138)
+		['address'] = 0x40662b6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(5483511)
+		['address'] = 0x40662b7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(c0ff676)
+		['address'] = 0x40662b8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(5281477)
+		['address'] = 0x40662b9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(35728e4)
+	[1] = { -- table(eea114d)
+		['address'] = 0x40662b2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(97d0402)
+		['address'] = 0x40662b3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(cff8113)
+	[1] = { -- table(9cfef50)
+		['address'] = 0x40662c6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(537549)
+		['address'] = 0x40662c7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(bb5e4e)
+		['address'] = 0x40662c8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(4d71b6f)
+		['address'] = 0x40662c9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(ccb07c)
+		['address'] = 0x40662ca,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(d51d05)
+		['address'] = 0x40662cb,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(73115a)
+		['address'] = 0x40662cc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(5e3ff8b)
+		['address'] = 0x40662cd,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(a725868)
+	[1] = { -- table(20f8481)
+		['address'] = 0x40662c6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(7c0e926)
+		['address'] = 0x40662c7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(d910967)
+	[1] = { -- table(4489314)
+		['address'] = 0x400e000,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(52ee7bd)
+		['address'] = 0x400e001,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(8c271b2)
+		['address'] = 0x400e002,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(b1ad503)
+		['address'] = 0x400e003,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(aa5cc80)
+		['address'] = 0x400e004,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(7e742b9)
+		['address'] = 0x400e005,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(7e1f6fe)
+		['address'] = 0x400e006,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(aebbe5f)
+		['address'] = 0x400e007,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(6db30ac)
+	[1] = { -- table(5305175)
+		['address'] = 0x400e000,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(3e2850a)
+		['address'] = 0x400e001,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[3] = { -- table(bb7e17b)
+		['address'] = 0x400e002,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'A0r',
+	},
+	[4] = { -- table(420ab98)
+		['address'] = 0x400e003,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'E3r',
+	},
+	[5] = { -- table(5c18ff1)
+		['address'] = 0x400e004,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '1Er',
+	},
+	[6] = { -- table(2abe7d6)
+		['address'] = 0x400e005,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'FFr',
+	},
+	[7] = { -- table(9591a57)
+		['address'] = 0x400e006,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '2Fr',
+	},
+	[8] = { -- table(740e944)
+		['address'] = 0x400e007,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'E1r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(c4e3a2d)
+	[1] = { -- table(ed6ab62)
+		['address'] = 0x4015f34,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(96b04f3)
+		['address'] = 0x4015f35,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(50555b0)
+		['address'] = 0x4015f36,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(9814c29)
+		['address'] = 0x4015f37,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(1f81bae)
+		['address'] = 0x4015f38,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(5a6fd4f)
+		['address'] = 0x4015f39,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(3621cdc)
+		['address'] = 0x4015f3a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(3b981e5)
+		['address'] = 0x4015f3b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(7ae44ba)
+	[1] = { -- table(1f6b)
+		['address'] = 0x4015f34,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(1622ac8)
+		['address'] = 0x4015f35,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+	[3] = { -- table(e855761)
+		['address'] = 0x4015f36,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(56bf286)
+		['address'] = 0x4015f37,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(c7f4747)
+	[1] = { -- table(1d32b74)
+		['address'] = 0x4015f8c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(ddf089d)
+		['address'] = 0x4015f8d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(304b112)
+		['address'] = 0x4015f8e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(cdf10e3)
+		['address'] = 0x4015f8f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(4b18ae0)
+		['address'] = 0x4015f90,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(1289199)
+		['address'] = 0x4015f91,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(ff8cc5e)
+		['address'] = 0x4015f92,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(9e7d83f)
+		['address'] = 0x4015f93,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(b54750c)
+	[1] = { -- table(1e7ae55)
+		['address'] = 0x4015f8c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(181506a)
+		['address'] = 0x4015f8d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+	[3] = { -- table(68bb95b)
+		['address'] = 0x4015f8e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(359d5f8)
+		['address'] = 0x4015f8f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(241dad1)
+	[1] = { -- table(55c0936)
+		['address'] = 0x40166e4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(8c29037)
+		['address'] = 0x40166e5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(45259a4)
+		['address'] = 0x40166e6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(738530d)
+		['address'] = 0x40166e7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(55782c2)
+		['address'] = 0x40166e8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(425f8d3)
+		['address'] = 0x40166e9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(c2d6c10)
+		['address'] = 0x40166ea,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(aa41309)
+		['address'] = 0x40166eb,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(79f090e)
+	[1] = { -- table(24d4f2f)
+		['address'] = 0x40166e4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(665393c)
+		['address'] = 0x40166e5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+	[3] = { -- table(f1d6c5)
+		['address'] = 0x40166e6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(7c6a81a)
+		['address'] = 0x40166e7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(9eaad28)
+	[1] = { -- table(e9e1a41)
+		['address'] = 0x402fb42,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(4972be6)
+		['address'] = 0x402fb43,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(da1f527)
+		['address'] = 0x402fb44,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(9d173d4)
+		['address'] = 0x402fb45,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(971197d)
+		['address'] = 0x402fb46,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(e9a2072)
+		['address'] = 0x402fb47,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(7aebcc3)
+		['address'] = 0x402fb48,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(4bbf940)
+		['address'] = 0x402fb49,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(17ad079)
+	[1] = { -- table(365d1be)
+		['address'] = 0x402fb42,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(f36621f)
+		['address'] = 0x402fb43,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+	[3] = { -- table(f07696c)
+		['address'] = 0x402fb44,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(dcefb35)
+		['address'] = 0x402fb45,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(3b7b058)
+	[1] = { -- table(90115b1)
+		['address'] = 0x4032e44,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(1f85a96)
+		['address'] = 0x4032e45,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(85c7617)
+		['address'] = 0x4032e46,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(8237a04)
+		['address'] = 0x4032e47,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(9605bed)
+		['address'] = 0x4032e48,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(578a22)
+		['address'] = 0x4032e49,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(9a85cb3)
+		['address'] = 0x4032e4a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(e603270)
+		['address'] = 0x4032e4b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(f3c9e9)
+	[1] = { -- table(288266e)
+		['address'] = 0x4032e44,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(6c2110f)
+		['address'] = 0x4032e45,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '20r',
+	},
+	[3] = { -- table(26e059c)
+		['address'] = 0x4032e46,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '70r',
+	},
+	[4] = { -- table(1361ba5)
+		['address'] = 0x4032e47,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '47r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(7143b7a)
+	[1] = { -- table(818af2b)
+		['address'] = 0x4032e6e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(e23df88)
+		['address'] = 0x4032e6f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(e91cd21)
+		['address'] = 0x4032e70,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(91a9546)
+		['address'] = 0x4032e71,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(3f11307)
+		['address'] = 0x4032e72,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(fdb6c34)
+		['address'] = 0x4032e73,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(f9d1a5d)
+		['address'] = 0x4032e74,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(4dabfd2)
+		['address'] = 0x4032e75,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(601d8a3)
+	[1] = { -- table(fdd17a0)
+		['address'] = 0x4032e6e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(415ff59)
+		['address'] = 0x4032e6f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '20r',
+	},
+	[3] = { -- table(901071e)
+		['address'] = 0x4032e70,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '70r',
+	},
+	[4] = { -- table(4cf5bff)
+		['address'] = 0x4032e71,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '47r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(8c0dcc)
+	[1] = { -- table(f9e3815)
+		['address'] = 0x40449c0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(b2772a)
+		['address'] = 0x40449c1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(c7b91b)
+		['address'] = 0x40449c2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(5523ab8)
+		['address'] = 0x40449c3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(4374091)
+		['address'] = 0x40449c4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(258dbf6)
+		['address'] = 0x40449c5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(91ecbf7)
+		['address'] = 0x40449c6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(c4c4a64)
+		['address'] = 0x40449c7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(87e54cd)
+	[1] = { -- table(f2ec182)
+		['address'] = 0x40449c0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(26a3093)
+		['address'] = 0x40449c1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '20r',
+	},
+	[3] = { -- table(6b5a8d0)
+		['address'] = 0x40449c2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '70r',
+	},
+	[4] = { -- table(5a870c9)
+		['address'] = 0x40449c3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '47r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(f8b73ce)
+	[1] = { -- table(afd42ef)
+		['address'] = 0x405580a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(c1481fc)
+		['address'] = 0x405580b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(93e5085)
+		['address'] = 0x405580c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(7eefeda)
+		['address'] = 0x405580d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(9051f0b)
+		['address'] = 0x405580e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(425c1e8)
+		['address'] = 0x405580f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(6987001)
+		['address'] = 0x4055810,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(2ce2ea6)
+		['address'] = 0x4055811,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(e64a0e7)
+	[1] = { -- table(3891494)
+		['address'] = 0x405580a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(41b0b3d)
+		['address'] = 0x405580b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+	[3] = { -- table(b1e8f32)
+		['address'] = 0x405580c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[4] = { -- table(e506483)
+		['address'] = 0x405580d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(72ce600)
+	[1] = { -- table(321e39)
+		['address'] = 0x405582c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(3a26c7e)
+		['address'] = 0x405582d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(aac5df)
+		['address'] = 0x405582e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(a7a622c)
+		['address'] = 0x405582f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(a0d64f5)
+		['address'] = 0x4055830,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(6f4d28a)
+		['address'] = 0x4055831,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(f1fe0fb)
+		['address'] = 0x4055832,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(4417518)
+		['address'] = 0x4055833,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(a1c5b71)
+	[1] = { -- table(c558d56)
+		['address'] = 0x405582c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+	[2] = { -- table(80191d7)
+		['address'] = 0x405582d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(664cac4)
+	[1] = { -- table(64a3dad)
+		['address'] = 0x4015084,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(d3528e2)
+		['address'] = 0x4015085,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(2e37473)
+		['address'] = 0x4015086,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(c45cf30)
+		['address'] = 0x4015087,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(dfa07a9)
+		['address'] = 0x4015088,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(780f12e)
+		['address'] = 0x4015089,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(2f6e4cf)
+		['address'] = 0x401508a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(3f0ae5c)
+		['address'] = 0x401508b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(9c27565)
+	[1] = { -- table(8aef23a)
+		['address'] = 0x4015084,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(326feeb)
+	[1] = { -- table(e085448)
+		['address'] = 0x40150a8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(aea02e1)
+		['address'] = 0x40150a9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(d89f806)
+		['address'] = 0x40150aa,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(7f49ec7)
+		['address'] = 0x40150ab,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(726cf4)
+		['address'] = 0x40150ac,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(6a2ec1d)
+		['address'] = 0x40150ad,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(2bd8e92)
+		['address'] = 0x40150ae,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(3126063)
+		['address'] = 0x40150af,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(7c36460)
+	[1] = { -- table(9072d19)
+		['address'] = 0x40150a8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(22201de)
+	[1] = { -- table(4c09fbf)
+		['address'] = 0x40150d0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(36a668c)
+		['address'] = 0x40150d1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(bd481d5)
+		['address'] = 0x40150d2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(8c85dea)
+		['address'] = 0x40150d3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(6e978db)
+		['address'] = 0x40150d4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(89d5f78)
+		['address'] = 0x40150d5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(ce86651)
+		['address'] = 0x40150d6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(1c66eb6)
+		['address'] = 0x40150d7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(dfcc7b7)
+	[1] = { -- table(804fb24)
+		['address'] = 0x40150d0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(7c168d)
+	[1] = { -- table(1c2c042)
+		['address'] = 0x40150f4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(b8c2853)
+		['address'] = 0x40150f5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(228a590)
+		['address'] = 0x40150f6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(b208e89)
+		['address'] = 0x40150f7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(f409e8e)
+		['address'] = 0x40150f8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(ea6f6af)
+		['address'] = 0x40150f9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(69a8abc)
+		['address'] = 0x40150fa,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(f7a8a45)
+		['address'] = 0x40150fb,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(3ac159a)
+	[1] = { -- table(df64ecb)
+		['address'] = 0x40150f4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(9e396a8)
+	[1] = { -- table(bbe85c1)
+		['address'] = 0x40152e8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(125f166)
+		['address'] = 0x40152e9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(7990ca7)
+		['address'] = 0x40152ea,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(e2f7554)
+		['address'] = 0x40152eb,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(2ecbcfd)
+		['address'] = 0x40152ec,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(90fbdf2)
+		['address'] = 0x40152ed,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(2bfcc43)
+		['address'] = 0x40152ee,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(ab892c0)
+		['address'] = 0x40152ef,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(dcd2bf9)
+	[1] = { -- table(f57c73e)
+		['address'] = 0x40152e8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(f08e99f)
+	[1] = { -- table(df41aec)
+		['address'] = 0x401530c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(fab8eb5)
+		['address'] = 0x401530d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(685194a)
+		['address'] = 0x401530e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(d9c80bb)
+		['address'] = 0x401530f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(67df9d8)
+		['address'] = 0x4015310,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(ad36131)
+		['address'] = 0x4015311,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(838016)
+		['address'] = 0x4015312,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(86d97)
+		['address'] = 0x4015313,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(ec4db84)
+	[1] = { -- table(cbdf6d)
+		['address'] = 0x401530c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(2f87a2)
+	[1] = { -- table(8dc4c33)
+		['address'] = 0x4015334,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(7762bf0)
+		['address'] = 0x4015335,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(a540569)
+		['address'] = 0x4015336,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(7a27bee)
+		['address'] = 0x4015337,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(a05788f)
+		['address'] = 0x4015338,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(caa171c)
+		['address'] = 0x4015339,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(31e8f25)
+		['address'] = 0x401533a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(f3e68fa)
+		['address'] = 0x401533b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(ceb0eab)
+	[1] = { -- table(1cf8908)
+		['address'] = 0x4015334,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(54df8a1)
+	[1] = { -- table(17a1ac6)
+		['address'] = 0x4015432,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(49ea87)
+		['address'] = 0x4015433,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(582db4)
+		['address'] = 0x4015434,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(b07ddd)
+		['address'] = 0x4015435,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(76d1d52)
+		['address'] = 0x4015436,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(7d0a823)
+		['address'] = 0x4015437,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(5247120)
+		['address'] = 0x4015438,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(9bc1ad9)
+		['address'] = 0x4015439,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(21bbc9e)
+	[1] = { -- table(97ba37f)
+		['address'] = 0x4015432,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '72r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(8af7f4c)
+	[1] = { -- table(c4a8b95)
+		['address'] = 0x4015436,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(c8304aa)
+		['address'] = 0x4015437,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(4b0f89b)
+		['address'] = 0x4015438,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(dfb4438)
+		['address'] = 0x4015439,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(e154c11)
+		['address'] = 0x401543a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(264c176)
+		['address'] = 0x401543b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(f1c8377)
+		['address'] = 0x401543c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(43c6be4)
+		['address'] = 0x401543d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(cf1984d)
+	[1] = { -- table(7d37f02)
+		['address'] = 0x4015436,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '30r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(34be013)
+	[1] = { -- table(7466250)
+		['address'] = 0x401544c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(4cc6c49)
+		['address'] = 0x401544d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(d7e894e)
+		['address'] = 0x401544e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(d0a6a6f)
+		['address'] = 0x401544f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(ab7537c)
+		['address'] = 0x4015450,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(9668405)
+		['address'] = 0x4015451,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(dbdec5a)
+		['address'] = 0x4015452,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(f7d3e8b)
+		['address'] = 0x4015453,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(be42b68)
+	[1] = { -- table(fd05b81)
+		['address'] = 0x401544c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '16r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(e5e7426)
+	[1] = { -- table(ff3867)
+		['address'] = 0x401544e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(6849614)
+		['address'] = 0x401544f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(3a62ebd)
+		['address'] = 0x4015450,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(32dacb2)
+		['address'] = 0x4015451,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(8bcf403)
+		['address'] = 0x4015452,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(81eff80)
+		['address'] = 0x4015453,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(40bf9b9)
+		['address'] = 0x4015454,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(d45e1fe)
+		['address'] = 0x4015455,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(a10cd5f)
+	[1] = { -- table(e3493ac)
+		['address'] = 0x401544e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '57r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(4697875)
+	[1] = { -- table(31a200a)
+		['address'] = 0x4015382,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(99ee07b)
+		['address'] = 0x4015383,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(b2d3e98)
+		['address'] = 0x4015384,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(ce626f1)
+		['address'] = 0x4015385,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(d4232d6)
+		['address'] = 0x4015386,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(8310957)
+		['address'] = 0x4015387,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(e03ac44)
+		['address'] = 0x4015388,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(6a5412d)
+		['address'] = 0x4015389,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(406a662)
+	[1] = { -- table(f52e3f3)
+		['address'] = 0x4015382,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(8b148b0)
+	[1] = { -- table(fc1c329)
+		['address'] = 0x40153a6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(9acc6ae)
+		['address'] = 0x40153a7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(badcc4f)
+		['address'] = 0x40153a8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(15a3fdc)
+		['address'] = 0x40153a9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(30a68e5)
+		['address'] = 0x40153aa,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(d829fba)
+		['address'] = 0x40153ab,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(124de6b)
+		['address'] = 0x40153ac,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(a397dc8)
+		['address'] = 0x40153ad,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(f7dae61)
+	[1] = { -- table(3aafd86)
+		['address'] = 0x40153a6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(4b0f647)
+	[1] = { -- table(c4cae74)
+		['address'] = 0x40153d2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(b85cf9d)
+		['address'] = 0x40153d3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(da96c12)
+		['address'] = 0x40153d4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(7fcafe3)
+		['address'] = 0x40153d5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(c03de0)
+		['address'] = 0x40153d6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(ff4c899)
+		['address'] = 0x40153d7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(fae375e)
+		['address'] = 0x40153d8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(2c0673f)
+		['address'] = 0x40153d9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(51b580c)
+	[1] = { -- table(6c05555)
+		['address'] = 0x40153d2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(ea26b6a)
+	[1] = { -- table(5de385b)
+		['address'] = 0x4015414,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(62be8f8)
+		['address'] = 0x4015415,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(97df1d1)
+		['address'] = 0x4015416,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(2f3d436)
+		['address'] = 0x4015417,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(43dff37)
+		['address'] = 0x4015418,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(db29ca4)
+		['address'] = 0x4015419,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(b9eda0d)
+		['address'] = 0x401541a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(c20fdc2)
+		['address'] = 0x401541b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(d6957d3)
+	[1] = { -- table(ecedf10)
+		['address'] = 0x4015414,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(c6c0a09)
+	[1] = { -- table(105340e)
+		['address'] = 0x401543c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(5e79e2f)
+		['address'] = 0x401543d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(d2adc3c)
+		['address'] = 0x401543e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(cc23dc5)
+		['address'] = 0x401543f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(8e4831a)
+		['address'] = 0x4015440,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(959ee4b)
+		['address'] = 0x4015441,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(ae78028)
+		['address'] = 0x4015442,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(48df141)
+		['address'] = 0x4015443,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(937b6e6)
+	[1] = { -- table(2572427)
+		['address'] = 0x401543c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(94876d4)
+	[1] = { -- table(407607d)
+		['address'] = 0x401545c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(4385b72)
+		['address'] = 0x401545d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(407dbc3)
+		['address'] = 0x401545e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(8202c40)
+		['address'] = 0x401545f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(cae8779)
+		['address'] = 0x4015460,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(42cbcbe)
+		['address'] = 0x4015461,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(182711f)
+		['address'] = 0x4015462,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(ffbcc6c)
+		['address'] = 0x4015463,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(e072235)
+	[1] = { -- table(f73e6ca)
+		['address'] = 0x401545c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(214acb1)
+	[1] = { -- table(151a596)
+		['address'] = 0x4015492,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(83b6517)
+		['address'] = 0x4015493,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(e13d04)
+		['address'] = 0x4015494,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(59662ed)
+		['address'] = 0x4015495,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(37a8522)
+		['address'] = 0x4015496,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(a073bb3)
+		['address'] = 0x4015497,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(8b72570)
+		['address'] = 0x4015498,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(80340e9)
+		['address'] = 0x4015499,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(45fd16e)
+	[1] = { -- table(7afe00f)
+		['address'] = 0x4015492,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(6c1289c)
+	[1] = { -- table(f4602a5)
+		['address'] = 0x40154dc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(63b967a)
+		['address'] = 0x40154dd,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(b946e2b)
+		['address'] = 0x40154de,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(8063288)
+		['address'] = 0x40154df,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(b392421)
+		['address'] = 0x40154e0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(2dca046)
+		['address'] = 0x40154e1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(ce9c207)
+		['address'] = 0x40154e2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(10fef34)
+		['address'] = 0x40154e3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(4e2e15d)
+	[1] = { -- table(327ad2)
+		['address'] = 0x40154dc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(75677a3)
+	[1] = { -- table(356caa0)
+		['address'] = 0x4015560,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(5713659)
+		['address'] = 0x4015561,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(199721e)
+		['address'] = 0x4015562,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(4eeaff)
+		['address'] = 0x4015563,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(d6df0cc)
+		['address'] = 0x4015564,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(f5df15)
+		['address'] = 0x4015565,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(1e6922a)
+		['address'] = 0x4015566,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(631381b)
+		['address'] = 0x4015567,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(1ef4db8)
+	[1] = { -- table(e25791)
+		['address'] = 0x4015560,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(233a6f6)
+	[1] = { -- table(5213af7)
+		['address'] = 0x4015622,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(1278d64)
+		['address'] = 0x4015623,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(a43dbcd)
+		['address'] = 0x4015624,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(96b3c82)
+		['address'] = 0x4015625,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(da48f93)
+		['address'] = 0x4015626,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(1821bd0)
+		['address'] = 0x4015627,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(bbf67c9)
+		['address'] = 0x4015628,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(949ece)
+		['address'] = 0x4015629,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(8fe91ef)
+	[1] = { -- table(2b524fc)
+		['address'] = 0x4015622,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(f4db785)
+	[1] = { -- table(7dfd9da)
+		['address'] = 0x401565e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(74c5e0b)
+		['address'] = 0x401565f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(7ad94e8)
+		['address'] = 0x4015660,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(bb74701)
+		['address'] = 0x4015661,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(71b9a6)
+		['address'] = 0x4015662,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(360cfe7)
+		['address'] = 0x4015663,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(33b1794)
+		['address'] = 0x4015664,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(1d0523d)
+		['address'] = 0x4015665,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(6efca32)
+	[1] = { -- table(8608383)
+		['address'] = 0x401565e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(37c1900)
+	[1] = { -- table(174d539)
+		['address'] = 0x4015682,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(acc577e)
+		['address'] = 0x4015683,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(51dd4df)
+		['address'] = 0x4015684,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(809c52c)
+		['address'] = 0x4015685,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(2448bf5)
+		['address'] = 0x4015686,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(e526d8a)
+		['address'] = 0x4015687,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(934dffb)
+		['address'] = 0x4015688,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(ee40818)
+		['address'] = 0x4015689,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(c1ef271)
+	[1] = { -- table(b71d856)
+		['address'] = 0x4015682,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(7e780d7)
+	[1] = { -- table(41d8dc4)
+		['address'] = 0x40156aa,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(b5f44ad)
+		['address'] = 0x40156ab,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(94b23e2)
+		['address'] = 0x40156ac,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(cb95373)
+		['address'] = 0x40156ad,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(47c230)
+		['address'] = 0x40156ae,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(cd87ea9)
+		['address'] = 0x40156af,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(e7b9c2e)
+		['address'] = 0x40156b0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(dcbb3cf)
+		['address'] = 0x40156b1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(19ed15c)
+	[1] = { -- table(d915c65)
+		['address'] = 0x40156aa,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(c294d3a)
+	[1] = { -- table(7f9bdeb)
+		['address'] = 0x40156ce,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(bf5a748)
+		['address'] = 0x40156cf,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(a4059e1)
+		['address'] = 0x40156d0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(dcf0306)
+		['address'] = 0x40156d1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(b44dc7)
+		['address'] = 0x40156d2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(b61eff4)
+		['address'] = 0x40156d3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(a87b31d)
+		['address'] = 0x40156d4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(9c84992)
+		['address'] = 0x40156d5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(99dff63)
+	[1] = { -- table(5a81760)
+		['address'] = 0x40156ce,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(3f16419)
+	[1] = { -- table(e9d6cde)
+		['address'] = 0x40159dc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(1e72ebf)
+		['address'] = 0x40159dd,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(667498c)
+		['address'] = 0x40159de,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(ab28d5)
+		['address'] = 0x40159df,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(90f78ea)
+		['address'] = 0x40159e0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(169f7db)
+		['address'] = 0x40159e1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(2057278)
+		['address'] = 0x40159e2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(6027d51)
+		['address'] = 0x40159e3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(ee439b6)
+	[1] = { -- table(98636b7)
+		['address'] = 0x40159dc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '31r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(b5b3e24)
+	[1] = { -- table(6a09d8d)
+		['address'] = 0x401576e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(a723b42)
+		['address'] = 0x401576f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(7bd8753)
+		['address'] = 0x4015770,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(8201890)
+		['address'] = 0x4015771,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(c868589)
+		['address'] = 0x4015772,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(2ecc98e)
+		['address'] = 0x4015773,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(60f45af)
+		['address'] = 0x4015774,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(162dbc)
+		['address'] = 0x4015775,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(6c8f145)
+	[1] = { -- table(d6ff09a)
+		['address'] = 0x401576e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '6Ar',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(5148dcb)
+	[1] = { -- table(2f669a8)
+		['address'] = 0x401577a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(70c5cc1)
+		['address'] = 0x401577b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(2cc7c66)
+		['address'] = 0x401577c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(bdc3ba7)
+		['address'] = 0x401577d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(11c7854)
+		['address'] = 0x401577e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(ac103fd)
+		['address'] = 0x401577f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(613f8f2)
+		['address'] = 0x4015780,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(986eb43)
+		['address'] = 0x4015781,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(2f2c5c0)
+	[1] = { -- table(c1ee2f9)
+		['address'] = 0x401577a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '30r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(7e4b23e)
+	[1] = { -- table(4a2f89f)
+		['address'] = 0x40324e0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(b1e7dec)
+		['address'] = 0x40324e1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(6e1b5b5)
+		['address'] = 0x40324e2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(275b44a)
+		['address'] = 0x40324e3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(4487fbb)
+		['address'] = 0x40324e4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(f6b8cd8)
+		['address'] = 0x40324e5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(cc4f831)
+		['address'] = 0x40324e6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(a62cb16)
+		['address'] = 0x40324e7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(ef55c97)
+	[1] = { -- table(4789e84)
+		['address'] = 0x40324e0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '7Er',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(5bfe66d)
+	[1] = { -- table(3882a2)
+		['address'] = 0x404f2bc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(b292b33)
+		['address'] = 0x404f2bd,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(8231ef0)
+		['address'] = 0x404f2be,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(8017c69)
+		['address'] = 0x404f2bf,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(ec026ee)
+		['address'] = 0x404f2c0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(dc1478f)
+		['address'] = 0x404f2c1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(6b33a1c)
+		['address'] = 0x404f2c2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(3ac7625)
+		['address'] = 0x404f2c3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(20bc3fa)
+	[1] = { -- table(214cdab)
+		['address'] = 0x404f2bc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '12r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(6c7dc08)
+	[1] = { -- table(e534fa1)
+		['address'] = 0x404f2e2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(34225c6)
+		['address'] = 0x404f2e3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(7d09987)
+		['address'] = 0x404f2e4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(802b0b4)
+		['address'] = 0x404f2e5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(a3444dd)
+		['address'] = 0x404f2e6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(52ad852)
+		['address'] = 0x404f2e7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(2934723)
+		['address'] = 0x404f2e8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(742420)
+		['address'] = 0x404f2e9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(53551d9)
+	[1] = { -- table(d7a279e)
+		['address'] = 0x404f2e2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '02r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(749327f)
+	[1] = { -- table(4c7624c)
+		['address'] = 0x4013c8e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(ba03295)
+		['address'] = 0x4013c8f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(6dd1faa)
+		['address'] = 0x4013c90,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(348779b)
+		['address'] = 0x4013c91,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(72e5738)
+		['address'] = 0x4013c92,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(a9e6311)
+		['address'] = 0x4013c93,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(7c58c76)
+		['address'] = 0x4013c94,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(92cf277)
+		['address'] = 0x4013c95,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(90daee4)
+	[1] = { -- table(e751f4d)
+		['address'] = 0x4013c8e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '19r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(9f5fa02)
+	[1] = { -- table(f743f13)
+		['address'] = 0x4015c20,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(b68d550)
+		['address'] = 0x4015c21,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(8816349)
+		['address'] = 0x4015c22,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(ecdb44e)
+		['address'] = 0x4015c23,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(cd9b96f)
+		['address'] = 0x4015c24,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(a0df67c)
+		['address'] = 0x4015c25,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(8f3eb05)
+		['address'] = 0x4015c26,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(c54c75a)
+		['address'] = 0x4015c27,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(e727d8b)
+	[1] = { -- table(d81fe68)
+		['address'] = 0x4015c20,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(84d3281)
+	[1] = { -- table(f07ff26)
+		['address'] = 0x4015c3c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(3896767)
+		['address'] = 0x4015c3d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(fac9914)
+		['address'] = 0x4015c3e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(c9975bd)
+		['address'] = 0x4015c3f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(c64e7b2)
+		['address'] = 0x4015c40,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(b3b1303)
+		['address'] = 0x4015c41,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(f443280)
+		['address'] = 0x4015c42,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(66cb0b9)
+		['address'] = 0x4015c43,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(235ccfe)
+	[1] = { -- table(fd1dc5f)
+		['address'] = 0x4015c3c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(df9f6ac)
+	[1] = { -- table(19e9f75)
+		['address'] = 0x4015c58,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(e9dbb0a)
+		['address'] = 0x4015c59,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(be1df7b)
+		['address'] = 0x4015c5a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(565d198)
+		['address'] = 0x4015c5b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(5c6bdf1)
+		['address'] = 0x4015c5c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(ce47dd6)
+		['address'] = 0x4015c5d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(524f857)
+		['address'] = 0x4015c5e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(eb26f44)
+		['address'] = 0x4015c5f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(278482d)
+	[1] = { -- table(302a162)
+		['address'] = 0x4015c58,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '00r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(916c2f3)
+	[1] = { -- table(9093bb0)
+		['address'] = 0x4014e8e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(33e3a29)
+		['address'] = 0x4014e8f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(bed71ae)
+		['address'] = 0x4014e90,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(7509b4f)
+		['address'] = 0x4014e91,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(abe62dc)
+		['address'] = 0x4014e92,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(7574fe5)
+		['address'] = 0x4014e93,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(aa2faba)
+		['address'] = 0x4014e94,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(5a59d6b)
+		['address'] = 0x4014e95,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(93cd0c8)
+	[1] = { -- table(9320561)
+		['address'] = 0x4014e8e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '1Er',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(1f60886)
+	[1] = { -- table(9fea547)
+		['address'] = 0x4063112,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(3b23174)
+		['address'] = 0x4063113,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(1a8969d)
+		['address'] = 0x4063114,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(d1a2712)
+		['address'] = 0x4063115,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(5f64ee3)
+		['address'] = 0x4063116,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(c7af0e0)
+		['address'] = 0x4063117,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(2fcff99)
+		['address'] = 0x4063118,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(4efa25e)
+		['address'] = 0x4063119,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(34f63f)
+	[1] = { -- table(d4e3b0c)
+		['address'] = 0x4063112,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BEr',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(794fc55)
+	[1] = { -- table(e0f866a)
+		['address'] = 0x4063134,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(78cb75b)
+		['address'] = 0x4063135,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(229fbf8)
+		['address'] = 0x4063136,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(7608d1)
+		['address'] = 0x4063137,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(b979f36)
+		['address'] = 0x4063138,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(bd56e37)
+		['address'] = 0x4063139,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(6fedfa4)
+		['address'] = 0x406313a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(f81610d)
+		['address'] = 0x406313b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(2b678c2)
+	[1] = { -- table(888b6d3)
+		['address'] = 0x4063134,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '86r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(41c5210)
+	[1] = { -- table(9700109)
+		['address'] = 0x4063166,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(af75f0e)
+		['address'] = 0x4063167,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(d1ded2f)
+		['address'] = 0x4063168,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(55c7f3c)
+		['address'] = 0x4063169,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(b8ea4c5)
+		['address'] = 0x406316a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(74e5e1a)
+		['address'] = 0x406316b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(f262d4b)
+		['address'] = 0x406316c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(8105328)
+		['address'] = 0x406316d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(139c841)
+	[1] = { -- table(3e441e6)
+		['address'] = 0x4063166,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BEr',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(519a77d)
+	[1] = { -- table(4a29672)
+		['address'] = 0x4063174,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(13cfac3)
+		['address'] = 0x4063175,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(1305f40)
+		['address'] = 0x4063176,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(a1e3e79)
+		['address'] = 0x4063177,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(7fa7be)
+		['address'] = 0x4063178,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(66a801f)
+		['address'] = 0x4063179,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(55c2f6c)
+		['address'] = 0x406317a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(83b4935)
+		['address'] = 0x406317b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(58a81ca)
+	[1] = { -- table(bc0ff3b)
+		['address'] = 0x4063174,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '47r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(192d658)
+	[1] = { -- table(8e443b1)
+		['address'] = 0x40631ca,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(1b6f096)
+		['address'] = 0x40631cb,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(2365417)
+		['address'] = 0x40631cc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(f8b0004)
+		['address'] = 0x40631cd,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(f4869ed)
+		['address'] = 0x40631ce,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(c698022)
+		['address'] = 0x40631cf,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(a421ab3)
+		['address'] = 0x40631d0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(bba1870)
+		['address'] = 0x40631d1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(84eb7e9)
+	[1] = { -- table(cc37c6e)
+		['address'] = 0x40631ca,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '02r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(a39af0f)
+	[1] = { -- table(2804b9c)
+		['address'] = 0x4015c04,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(e51e9a5)
+		['address'] = 0x4015c05,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(8aef17a)
+		['address'] = 0x4015c06,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(e6c2d2b)
+		['address'] = 0x4015c07,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(4148588)
+		['address'] = 0x4015c08,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(c9c7b21)
+		['address'] = 0x4015c09,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(8aaab46)
+		['address'] = 0x4015c0a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(efe7107)
+		['address'] = 0x4015c0b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(b307234)
+	[1] = { -- table(ea4a85d)
+		['address'] = 0x4015c04,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '40r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(c5635d2)
+	[1] = { -- table(78716a3)
+		['address'] = 0x4064ff0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(27c7da0)
+		['address'] = 0x4064ff1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(7086d59)
+		['address'] = 0x4064ff2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(bbddd1e)
+		['address'] = 0x4064ff3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(c6a79ff)
+		['address'] = 0x4064ff4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(4bbd3cc)
+		['address'] = 0x4064ff5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(a498615)
+		['address'] = 0x4064ff6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(166ad2a)
+		['address'] = 0x4064ff7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(9f6b71b)
+	[1] = { -- table(3b860b8)
+		['address'] = 0x4064ff0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '02r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(9496e91)
+	[1] = { -- table(91a71f6)
+		['address'] = 0x4013eb8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(93fa9f7)
+		['address'] = 0x4013eb9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(1eed064)
+		['address'] = 0x4013eba,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(78562cd)
+		['address'] = 0x4013ebb,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(f73b782)
+		['address'] = 0x4013ebc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(6baee93)
+		['address'] = 0x4013ebd,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(afa8ed0)
+		['address'] = 0x4013ebe,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(9125ec9)
+		['address'] = 0x4013ebf,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(e29c9ce)
+	[1] = { -- table(69be0ef)
+		['address'] = 0x4013eb8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '02r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(6c1c7fc)
+	[1] = { -- table(4591e85)
+		['address'] = 0x4063846,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(11cb4da)
+		['address'] = 0x4063847,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(2ef9d0b)
+		['address'] = 0x4063848,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(36167e8)
+		['address'] = 0x4063849,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(3921e01)
+		['address'] = 0x406384a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(2144a6)
+		['address'] = 0x406384b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(f78fee7)
+		['address'] = 0x406384c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(1d91a94)
+		['address'] = 0x406384d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(201993d)
+	[1] = { -- table(98d0532)
+		['address'] = 0x4063846,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '02r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(f4ca283)
+	[1] = { -- table(1774c00)
+		['address'] = 0x402643a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(f38c39)
+		['address'] = 0x402643b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(982427e)
+		['address'] = 0x402643c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(82ce3df)
+		['address'] = 0x402643d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(605282c)
+		['address'] = 0x402643e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(77b2f5)
+		['address'] = 0x402643f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(9fc088a)
+		['address'] = 0x4026440,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(fa5defb)
+		['address'] = 0x4026441,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(4b29b18)
+	[1] = { -- table(7dd8971)
+		['address'] = 0x402643a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '7Er',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(79a2356)
+	[1] = { -- table(de96fd7)
+		['address'] = 0x40a2b58,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(3c250c4)
+		['address'] = 0x40a2b59,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(9f04bad)
+		['address'] = 0x40a2b5a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(72d1ee2)
+		['address'] = 0x40a2b5b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(26b3273)
+		['address'] = 0x40a2b5c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(8f5b530)
+		['address'] = 0x40a2b5d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(f2f5a9)
+		['address'] = 0x40a2b5e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(802472e)
+		['address'] = 0x40a2b5f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(63c82cf)
+	[1] = { -- table(2b8f45c)
+		['address'] = 0x40a2b58,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '1Er',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(e5c4365)
+	[1] = { -- table(eefa83a)
+		['address'] = 0x408df5a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(8287ceb)
+		['address'] = 0x408df5b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(80efa48)
+		['address'] = 0x408df5c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(a52b0e1)
+		['address'] = 0x408df5d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(6200e06)
+		['address'] = 0x408df5e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(e8ffcc7)
+		['address'] = 0x408df5f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(b3d72f4)
+		['address'] = 0x408df60,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(ee87a1d)
+		['address'] = 0x408df61,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(d9f0492)
+	[1] = { -- table(b059e63)
+		['address'] = 0x408df5a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '02r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(b38ca60)
+	[1] = { -- table(b179b19)
+		['address'] = 0x408df8e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(8a4d7de)
+		['address'] = 0x408df8f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(ba9bdbf)
+		['address'] = 0x408df90,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(fd02c8c)
+		['address'] = 0x408df91,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(97dcfd5)
+		['address'] = 0x408df92,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(3a293ea)
+		['address'] = 0x408df93,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(64676db)
+		['address'] = 0x408df94,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(c998578)
+		['address'] = 0x408df95,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(6d89451)
+	[1] = { -- table(f0e04b6)
+		['address'] = 0x408df8e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '41r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(92ba5b7)
+	[1] = { -- table(69d8124)
+		['address'] = 0x408dfba,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(441248d)
+		['address'] = 0x408dfbb,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(aedb642)
+		['address'] = 0x408dfbc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(dcae653)
+		['address'] = 0x408dfbd,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(8c38b90)
+		['address'] = 0x408dfbe,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(1287c89)
+		['address'] = 0x408dfbf,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(f24f48e)
+		['address'] = 0x408dfc0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(91394af)
+		['address'] = 0x408dfc1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(2fdd0bc)
+	[1] = { -- table(9135845)
+		['address'] = 0x408dfba,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '9Br',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(c7fcb9a)
+	[1] = { -- table(58ecccb)
+		['address'] = 0x408dfe6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(353ca8)
+		['address'] = 0x408dfe7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(11633c1)
+		['address'] = 0x408dfe8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(27f0766)
+		['address'] = 0x408dfe9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(33b6aa7)
+		['address'] = 0x408dfea,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(ef57b54)
+		['address'] = 0x408dfeb,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(1114afd)
+		['address'] = 0x408dfec,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(5e433f2)
+		['address'] = 0x408dfed,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(92a0a43)
+	[1] = { -- table(8d8f8c0)
+		['address'] = 0x408dfe6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '10r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(4ac99f9)
+	[1] = { -- table(3fd9d3e)
+		['address'] = 0x408dff2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(4d9079f)
+		['address'] = 0x408dff3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(4b4e0ec)
+		['address'] = 0x408dff4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(13dcb5)
+		['address'] = 0x408dff5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(eb24f4a)
+		['address'] = 0x408dff6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(3507ebb)
+		['address'] = 0x408dff7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(f851fd8)
+		['address'] = 0x408dff8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(4728f31)
+		['address'] = 0x408dff9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(d4e1616)
+	[1] = { -- table(ffe4b97)
+		['address'] = 0x408dff2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '58r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(8186184)
+	[1] = { -- table(2fed6d)
+		['address'] = 0x408e048,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(e0d7da2)
+		['address'] = 0x408e049,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(5520a33)
+		['address'] = 0x408e04a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(97c11f0)
+		['address'] = 0x408e04b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(6eaf369)
+		['address'] = 0x408e04c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(469d1ee)
+		['address'] = 0x408e04d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(b19168f)
+		['address'] = 0x408e04e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(285d1c)
+		['address'] = 0x408e04f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(d365d25)
+	[1] = { -- table(251efa)
+		['address'] = 0x408e048,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '30r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(e9a8cab)
+	[1] = { -- table(5ec2f08)
+		['address'] = 0x408e054,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(414a6a1)
+		['address'] = 0x408e055,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(91630c6)
+		['address'] = 0x408e056,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(734887)
+		['address'] = 0x408e057,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(9933b4)
+		['address'] = 0x408e058,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(340bdd)
+		['address'] = 0x408e059,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(bb49352)
+		['address'] = 0x408e05a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(431e623)
+		['address'] = 0x408e05b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(f6fd720)
+	[1] = { -- table(8ea88d9)
+		['address'] = 0x408e054,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '43r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(264929e)
+	[1] = { -- table(db2c17f)
+		['address'] = 0x408e086,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(34b454c)
+		['address'] = 0x408e087,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(af1d995)
+		['address'] = 0x408e088,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(7833aaa)
+		['address'] = 0x408e089,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(83bf69b)
+		['address'] = 0x408e08a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(d8d6a38)
+		['address'] = 0x408e08b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(ae37a11)
+		['address'] = 0x408e08c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(c325776)
+		['address'] = 0x408e08d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(3596177)
+	[1] = { -- table(1caf1e4)
+		['address'] = 0x408e086,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '91r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(374a64d)
+	[1] = { -- table(fe47502)
+		['address'] = 0x408e0b6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(1789e13)
+		['address'] = 0x408e0b7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(6374850)
+		['address'] = 0x408e0b8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(b725a49)
+		['address'] = 0x408e0b9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(4a8df4e)
+		['address'] = 0x408e0ba,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(445086f)
+		['address'] = 0x408e0bb,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(ed0997c)
+		['address'] = 0x408e0bc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(f7d5205)
+		['address'] = 0x408e0bd,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(c37a25a)
+	[1] = { -- table(2c3bc8b)
+		['address'] = 0x408e0b6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '3Er',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(f4bd168)
+	[1] = { -- table(b860981)
+		['address'] = 0x408e0ce,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(9bd8a26)
+		['address'] = 0x408e0cf,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(52f9667)
+		['address'] = 0x408e0d0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(fc09c14)
+		['address'] = 0x408e0d1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(8bcbd)
+		['address'] = 0x408e0d2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(46822b2)
+		['address'] = 0x408e0d3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(2953203)
+		['address'] = 0x408e0d4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(156580)
+		['address'] = 0x408e0d5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(f0967b9)
+	[1] = { -- table(6b1b7fe)
+		['address'] = 0x408e0ce,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'F4r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(c2eeb5f)
+	[1] = { -- table(62b59ac)
+		['address'] = 0x408e0da,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(ccfc675)
+		['address'] = 0x408e0db,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(66d560a)
+		['address'] = 0x408e0dc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(280de7b)
+		['address'] = 0x408e0dd,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(2ca6498)
+		['address'] = 0x408e0de,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(6354f1)
+		['address'] = 0x408e0df,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(192c8d6)
+		['address'] = 0x408e0e0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(34e757)
+		['address'] = 0x408e0e1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(94d3244)
+	[1] = { -- table(fc74f2d)
+		['address'] = 0x408e0da,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '34r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(bca9c62)
+	[1] = { -- table(6b6a1f3)
+		['address'] = 0x408e110,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(60d2eb0)
+		['address'] = 0x408e111,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(3f6b129)
+		['address'] = 0x408e112,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(8ba1cae)
+		['address'] = 0x408e113,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(88f6a4f)
+		['address'] = 0x408e114,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(f8e85dc)
+		['address'] = 0x408e115,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(a036e5)
+		['address'] = 0x408e116,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(f0f55ba)
+		['address'] = 0x408e117,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(d825c6b)
+	[1] = { -- table(e6c23c8)
+		['address'] = 0x408e110,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '3Er',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(ba25c61)
+	[1] = { -- table(4d1386)
+		['address'] = 0x4026608,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(c685447)
+		['address'] = 0x4026609,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(803b474)
+		['address'] = 0x402660a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(475d9d)
+		['address'] = 0x402660b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(156e212)
+		['address'] = 0x402660c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(6cbede3)
+		['address'] = 0x402660d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(7e1a3e0)
+		['address'] = 0x402660e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(a413699)
+		['address'] = 0x402660f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(fbd0d5e)
+	[1] = { -- table(245853f)
+		['address'] = 0x4026608,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '02r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(fc8a16a)
+	[1] = { -- table(b97365b)
+		['address'] = 0x4026870,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(7540ef8)
+		['address'] = 0x4026871,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(72a1fd1)
+		['address'] = 0x4026872,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(f476a36)
+		['address'] = 0x4026873,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(f88dd37)
+		['address'] = 0x4026874,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(3722a4)
+		['address'] = 0x4026875,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(2dfe80d)
+		['address'] = 0x4026876,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(917f3c2)
+		['address'] = 0x4026877,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(58415d3)
+	[1] = { -- table(c15c510)
+		['address'] = 0x4026870,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '19r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(1aff809)
+	[1] = { -- table(5758a0e)
+		['address'] = 0x4043052,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(7f03c2f)
+		['address'] = 0x4043053,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(efa223c)
+		['address'] = 0x4043054,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(d570bc5)
+		['address'] = 0x4043055,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(304391a)
+		['address'] = 0x4043056,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(64e6c4b)
+		['address'] = 0x4043057,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(1652628)
+		['address'] = 0x4043058,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(4a19f41)
+		['address'] = 0x4043059,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(49ccce6)
+	[1] = { -- table(d158227)
+		['address'] = 0x4043052,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(fa7cd4)
+	[1] = { -- table(ca7ee7d)
+		['address'] = 0x402d9f8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(fd8d172)
+		['address'] = 0x402d9f9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(f4e19c3)
+		['address'] = 0x402d9fa,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(fec9240)
+		['address'] = 0x402d9fb,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(9c9f579)
+		['address'] = 0x402d9fc,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(85e92be)
+		['address'] = 0x402d9fd,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(dee8f1f)
+		['address'] = 0x402d9fe,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(f28926c)
+		['address'] = 0x402d9ff,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(c6b7035)
+	[1] = { -- table(3ed1cca)
+		['address'] = 0x402d9f8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '42r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(8f6fe3b)
+	[1] = { -- table(f426958)
+		['address'] = 0x405ca84,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(d6fdab1)
+		['address'] = 0x405ca85,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(3283b96)
+		['address'] = 0x405ca86,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(64d4317)
+		['address'] = 0x405ca87,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(420c304)
+		['address'] = 0x405ca88,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(67670ed)
+		['address'] = 0x405ca89,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(b247b22)
+		['address'] = 0x405ca8a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(a58f9b3)
+		['address'] = 0x405ca8b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(7690b70)
+	[1] = { -- table(1d62ee9)
+		['address'] = 0x405ca84,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '23r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(bb3276e)
+	[1] = { -- table(e5f7e0f)
+		['address'] = 0x405cb82,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(5ab6e9c)
+		['address'] = 0x405cb83,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(e59d0a5)
+		['address'] = 0x405cb84,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(e6e4c7a)
+		['address'] = 0x405cb85,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(9fec2b)
+		['address'] = 0x405cb86,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(24ed888)
+		['address'] = 0x405cb87,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(2bbd221)
+		['address'] = 0x405cb88,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(a84b646)
+		['address'] = 0x405cb89,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(a2f2007)
+	[1] = { -- table(e3cf534)
+		['address'] = 0x405cb82,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'B3r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(ce26f5d)
+	[1] = { -- table(945f0d2)
+		['address'] = 0x409ff60,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(693b5a3)
+		['address'] = 0x409ff61,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(d4e30a0)
+		['address'] = 0x409ff62,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(8dba459)
+		['address'] = 0x409ff63,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(76e481e)
+		['address'] = 0x409ff64,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(92208ff)
+		['address'] = 0x409ff65,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(675b6cc)
+		['address'] = 0x409ff66,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(b992d15)
+		['address'] = 0x409ff67,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(f32c82a)
+	[1] = { -- table(c18361b)
+		['address'] = 0x409ff60,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'B0r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(aad73b8)
+	[1] = { -- table(d6c8591)
+		['address'] = 0x4033826,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(70d3cf6)
+		['address'] = 0x4033827,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(57a18f7)
+		['address'] = 0x4033828,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(ea21364)
+		['address'] = 0x4033829,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(42e9cd)
+		['address'] = 0x403382a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(1483282)
+		['address'] = 0x403382b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(dad4d93)
+		['address'] = 0x403382c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(31f01d0)
+		['address'] = 0x403382d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(da155c9)
+	[1] = { -- table(84af4ce)
+		['address'] = 0x4033826,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '83r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(3d52fef)
+	[1] = { -- table(83a6afc)
+		['address'] = 0x4033886,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(8608585)
+		['address'] = 0x4033887,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(3a58fda)
+		['address'] = 0x4033888,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(beedc0b)
+		['address'] = 0x4033889,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(7413ae8)
+		['address'] = 0x403388a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(e28f501)
+		['address'] = 0x403388b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(1dccfa6)
+		['address'] = 0x403388c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(2ad2de7)
+		['address'] = 0x403388d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(f631d94)
+	[1] = { -- table(4aee03d)
+		['address'] = 0x4033886,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '83r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(2f64032)
+	[1] = { -- table(314c183)
+		['address'] = 0x409ee26,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(11e7f00)
+		['address'] = 0x409ee27,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(eae4339)
+		['address'] = 0x409ee28,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(fc42d7e)
+		['address'] = 0x409ee29,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(9d7f2df)
+		['address'] = 0x409ee2a,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(46c8b2c)
+		['address'] = 0x409ee2b,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(4a6d9f5)
+		['address'] = 0x409ee2c,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(9f1a38a)
+		['address'] = 0x409ee2d,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(272ddfb)
+	[1] = { -- table(5ad2e18)
+		['address'] = 0x409ee26,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'E4r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(a075ed7)
+	[1] = { -- table(55313c4)
+		['address'] = 0x4033be4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(1fd52ad)
+		['address'] = 0x4033be5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(6db19e2)
+		['address'] = 0x4033be6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(3f91173)
+		['address'] = 0x4033be7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(64fa830)
+		['address'] = 0x4033be8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(a496ca9)
+		['address'] = 0x4033be9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(414f22e)
+		['address'] = 0x4033bea,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(c4951cf)
+		['address'] = 0x4033beb,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(73f175c)
+	[1] = { -- table(c232a65)
+		['address'] = 0x4033be4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '88r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(102033a)
+	[1] = { -- table(3b33beb)
+		['address'] = 0x404f3be,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(2544d48)
+		['address'] = 0x404f3bf,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(b2107e1)
+		['address'] = 0x404f3c0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(67d1906)
+		['address'] = 0x404f3c1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(187abc7)
+		['address'] = 0x404f3c2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(4f5f4)
+		['address'] = 0x404f3c3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(3c5411d)
+		['address'] = 0x404f3c4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(e41bf92)
+		['address'] = 0x404f3c5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(7493d63)
+	[1] = { -- table(8757d60)
+		['address'] = 0x404f3be,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '32r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(e79d219)
+	[1] = { -- table(3842de)
+		['address'] = 0x40423a2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(2084cbf)
+		['address'] = 0x40423a3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(fa50f8c)
+		['address'] = 0x40423a4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(64c76d5)
+		['address'] = 0x40423a5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(881aeea)
+		['address'] = 0x40423a6,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(57ef5db)
+		['address'] = 0x40423a7,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(8599878)
+		['address'] = 0x40423a8,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(f6aab51)
+		['address'] = 0x40423a9,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(243cfb6)
+	[1] = { -- table(ced14b7)
+		['address'] = 0x40423a2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 'BFr',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(9cbc424)
+	[1] = { -- table(95dab8d)
+		['address'] = 0x406496e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(3353142)
+		['address'] = 0x406496f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(db44553)
+		['address'] = 0x4064970,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(412fe90)
+		['address'] = 0x4064971,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(9067389)
+		['address'] = 0x4064972,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(3e91f8e)
+		['address'] = 0x4064973,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(7b3e3af)
+		['address'] = 0x4064974,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(f5173bc)
+		['address'] = 0x4064975,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(659bf45)
+	[1] = { -- table(dba69a)
+		['address'] = 0x406496e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '23r',
+	},
+})
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("7Fr;45r;4Cr;46r;01r;01r;01r;00r::8", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0x4000000, 0x4338000)
+gg.getResultsCount()
+gg.getResults(8)
+gg.loadResults({ -- table(f650bcb)
+	[1] = { -- table(1a00fa8)
+		['address'] = 0x408e69e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 127,
+	},
+	[2] = { -- table(9dc0ac1)
+		['address'] = 0x408e69f,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 69,
+	},
+	[3] = { -- table(3d9266)
+		['address'] = 0x408e6a0,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 76,
+	},
+	[4] = { -- table(db699a7)
+		['address'] = 0x408e6a1,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 70,
+	},
+	[5] = { -- table(7ba7e54)
+		['address'] = 0x408e6a2,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[6] = { -- table(5dd91fd)
+		['address'] = 0x408e6a3,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[7] = { -- table(8806ef2)
+		['address'] = 0x408e6a4,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 1,
+	},
+	[8] = { -- table(1a92943)
+		['address'] = 0x408e6a5,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = 0,
+	},
+})
+gg.setValues({ -- table(c6b2bc0)
+	[1] = { -- table(77650f9)
+		['address'] = 0x408e69e,
+		['flags'] = 1, -- gg.TYPE_BYTE
+		['value'] = '2Er',
+	},
+})
+gg.clearResults()
+gg.getRangesList("libUE4.so")
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("h 7A 08 00 EB 04 00 A0 E1 05 10 A0 E1 99 09 00 EB", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResultsCount()
+gg.getResults(16)
+gg.editAll("h 00 00 00 00", gg.TYPE_BYTE)
+gg.clearResults()
+gg.processResume()
+gg.toast("⚠️⚠️⚠️ BYPASS SUCCESS MAKE SURE USE GUEST ACCOUNT FIRST ⚠️⚠️⚠️")
+gg.alert("BYPASS BY Lucifer Darklord V.30-12|| Whatsapp :+15016064931 ")
+--[[ return: 1 ]]
+io.open("/sdcard/vikarikey", "w")
